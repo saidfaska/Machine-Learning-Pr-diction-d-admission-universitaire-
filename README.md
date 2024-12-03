@@ -1,2 +1,2 @@
-# Machine-Learning-Pr-diction-d-admission-universitaire-
-Ce projet consiste à prédire les chances d’admission d’un étudiant dans une université en utilisant  des critères académiques et personnels disponibles dans le dataset Graduate Admission. 
+# Machine Learning University Admission Prediction
+This project consists of predicting a student's chances of admission to a university using academic and personal criteria available in the Graduate Admission dataset.
